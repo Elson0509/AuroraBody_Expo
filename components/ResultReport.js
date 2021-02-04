@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
         borderRadius: 20,
     },
     resultText:{
-      paddingTop: 5,
+      padding: 8,
       color:'white',
       textAlign:'center',
       fontSize: 15

@@ -3,7 +3,7 @@ import {
   StyleSheet,
   View,
   Text,
-  TextInput
+  TextInput,
 } from 'react-native';
 
 const InputBox = (props) => {
